@@ -1,15 +1,14 @@
 # site
-title: Louie
-baseurl: "/louie"
-url: "http://lily.work"
-favicon: "/assets/sample/ico.png"
-g_analytics: UA-12345678-1
+title: camille bayas
+baseurl:
+url: "http://camillebayas.github.io"
+favicon:
+g_analytics:
 
 # bio
 header: Louie
 desc: >
-  A Jekyll theme (that looks awesome). Louie is free, lightweight,
-  and customizable as a blog, archive, or portfolio.
+  Hi! My name is Camille. I am based in Palo Alto, CA. I recently completed my PhD in physical chemistry at Stanford with W. E. Moerner.
 
 # posts
 date_format: "%Y"
