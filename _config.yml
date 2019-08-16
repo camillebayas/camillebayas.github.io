@@ -6,9 +6,9 @@ favicon:
 g_analytics:
 
 # bio
-header: camille bayas
+header: Camille Bayas
 desc: >
-  Hi! My name is Camille. I am based in Palo Alto, CA. I recently completed my PhD in physical chemistry at Stanford with W. E. Moerner.
+  Hi! My name is Camille. I am based in Boston, MA, and I work as a data scientist at <a href="https://www.indigoag.com/">Indigo</a>. I completed my PhD in physical chemistry at Stanford with <a href = "https://web.stanford.edu/group/moerner/">W. E. Moerner</a>.
 
 # posts
 date_format: "%Y"
